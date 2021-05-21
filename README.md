@@ -1,0 +1,2 @@
+# MemocardsWeb
+Memocards - Privacy Policy
